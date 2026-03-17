@@ -17,5 +17,5 @@ Looking for job opportunities while continuing several research projects. Collab
 
 
 
-test
+Some research notes back in 2017
 ![Some research notes back in 2017](Screenshot%202025-09-01%20233352%2002.png)
