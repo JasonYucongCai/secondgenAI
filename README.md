@@ -12,3 +12,10 @@ Looking for job opportunities while continuing several research projects. Collab
 3.	Mixed bitrate and weight quantization (entry level analysis and results)
 4.	Improved MOE through information compactification and knowledgeable imprinting onto the decoders (entry level analysis)
 5.	The increased native reasoning depths of the planners as part of the test time compute, may combine with the agentic workflow (medium level analysis)
+
+
+
+
+
+test
+![Some research back in 2017](Screenshot 2025-09-01 233352 02.png)
