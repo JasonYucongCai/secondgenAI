@@ -14,8 +14,10 @@ Looking for job opportunities while continuing several research projects. Collab
 5.	The increased native reasoning depths of the planners as part of the test time compute, may combine with the agentic workflow (medium level analysis)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+3.0 Gen AI associated
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Some research notes back in 2017
 ![Some research notes back in 2017](Screenshot%202025-09-01%20233352%2002.png)
